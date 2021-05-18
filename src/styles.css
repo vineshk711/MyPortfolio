@@ -39,3 +39,7 @@
   border:none;
   
 }
+.about-me{
+  padding-top: 3.35rem;
+  display: flex;
+}
