@@ -1,4 +1,26 @@
 .welcome-info-container {
     width:50%;
-    background: lightblue;
+    align-items: center;
+    /* background: lightblue; */
+}
+.hello-container {
+    height:50%;
+    margin-top:30%;
+    text-align: left;
+    /* background: lightgreen; */
+}
+.hello{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.introduction {
+    font-size: xx-large;
+    font-weight: bolder;
+    opacity: 0.5;
+
+}
+.detail {
+    font-size: xx-large;
+    font-weight: bold;
+    opacity: 0.5;
 }
