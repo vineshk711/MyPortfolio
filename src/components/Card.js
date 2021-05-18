@@ -11,7 +11,7 @@ export default function Card() {
         <div className="lower-section">
           <h6>UNDERGRUADATE STUDENT</h6>
           <h2>Vinesh Kumar</h2>
-          <p>The quick brown fox jumps over the lazy dog.</p>
+          <p>Student at IPU. Interested in Software Engineering</p>
         </div>
       </div>
     </div>

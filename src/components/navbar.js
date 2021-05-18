@@ -1,7 +1,7 @@
 import React from 'react'
 import './componentStyles/navbar.css'
 const Navbar = () => (
-    <div>
+    <div className="nav-container">
         <ul className="nav nav-tabs">
             <li className="nav-item btn-primary">About Me</li>
             <li className="nav-item btn-primary">Projects</li>

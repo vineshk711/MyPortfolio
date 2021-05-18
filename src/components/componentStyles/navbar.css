@@ -1,10 +1,16 @@
-.nav{  
+.nav-container{
     position: fixed;
     width: 100%;
-    padding: 0.6rem;
+    padding: 0.5rem;
     background: rgba(255,255,255,0.8);
     border: none;
     margin: 0.1rem;
+}
+.nav{  
+    background-color: white;
+    border:none;
+    float: right;
+    
 }
 .btn-primary {
     margin: 0.1rem;

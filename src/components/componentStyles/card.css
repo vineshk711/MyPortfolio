@@ -6,7 +6,7 @@
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   width: 30%;
   border-radius: 20px;
-  margin-left: 20%;
+  margin-left: 15%;
   border: white;
   box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.2);
 }
@@ -19,12 +19,13 @@
   width: 100%;
   background-color: white;
   text-align: left;
-  padding: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
 }
 h6 {
-  padding-top: 5px;
+  padding-top: 1rem;
   font-weight: bold;
   background-color: white;
   opacity: 0.5;
@@ -35,8 +36,7 @@ h2 {
   opacity: 0.8;
 }
 p {
-  /* padding-top: 5px; */
-  text-decoration: none;
+  padding-top: 2rem;
   background-color: white;
   opacity: 0.4;
 }
