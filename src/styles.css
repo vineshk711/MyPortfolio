@@ -16,7 +16,26 @@
   font-size: 0.7rem;
   font-weight: 500;
   border-radius: 1rem;
+  margin: 0.1rem;
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
   padding: 0.5rem;
   padding-left: 1rem;
   padding-right: 1rem;
+  border:none;
+}
+.btn-secondry {
+  background: white;
+  color: black;
+  font-size: 0.7rem;
+  font-weight: 500;
+  border-radius: 1rem;
+  margin: 0.1rem;
+  margin-left: 0.8rem;
+  margin-right: 0.8rem;
+  padding: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border:none;
+  
 }

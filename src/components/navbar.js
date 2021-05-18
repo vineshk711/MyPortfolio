@@ -3,9 +3,9 @@ import './componentStyles/navbar.css'
 const Navbar = () => (
     <div className="nav-container">
         <ul className="nav nav-tabs">
-            <li className="nav-item btn-primary">About Me</li>
-            <li className="nav-item btn-primary">Projects</li>
-            <li className="nav-item btn-primary">Resume</li>
+            <li className="nav-item btn-secondry">About Me</li>
+            <li className="nav-item btn-secondry">Projects</li>
+            <li className="nav-item btn-secondry">Resume</li>
             <li className="nav-item btn-primary">Contact Info</li>
         </ul>
     </div>
