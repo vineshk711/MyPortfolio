@@ -1,6 +1,6 @@
 .welcome-info-container {
     width:50%;
-    align-items: center;
+    align-items: left;
     /* background: lightblue; */
 }
 .hello-container {
@@ -20,7 +20,21 @@
 
 }
 .detail {
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: bold;
     opacity: 0.5;
+}
+
+.btn {
+    font-size: large;
+    padding: 0.5rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    margin: 3rem;
+    margin-left: 0rem;
+    border-radius: 2.5rem;
+}
+.btn-2 {
+    background: black;
+    color: whit
 }
