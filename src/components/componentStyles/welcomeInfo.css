@@ -9,20 +9,23 @@
     text-align: left;
     /* background: lightgreen; */
 }
-.hello{
-    font-size: 100px;
-    font-weight: bolder;
-}
 .introduction {
     font-size: xx-large;
     font-weight: bolder;
     opacity: 0.5;
 
 }
+.hello{
+    font-size: 100px;
+    font-weight: bolder;
+}
 .detail {
     font-size: x-large;
     font-weight: bold;
     opacity: 0.5;
+}
+.btn-container {
+    margin-top: 3rem;
 }
 
 .btn {
@@ -30,11 +33,11 @@
     padding: 0.5rem;
     padding-left: 2.5rem;
     padding-right: 2.5rem;
-    margin: 3rem;
     margin-left: 0rem;
+    margin-right: 1.3rem;
     border-radius: 2.5rem;
 }
-.btn-2 {
+.btn-black {
     background: black;
-    color: whit
+    color: white;
 }
