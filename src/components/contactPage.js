@@ -5,7 +5,7 @@ export default function ContactPage() {
         <div className="contact-page-container">
             <div className="btn-with-icon">
                 <div className="btn-circle">
-                    <i class="far fa-lightbulb-on"></i>
+                    <i class="fal fa-drafting-compass"></i>
                 </div>
                 <h1 className="btn-text">Projects</h1>
             </div>

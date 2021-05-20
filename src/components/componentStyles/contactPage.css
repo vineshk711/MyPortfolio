@@ -1,11 +1,11 @@
 .contact-page-container {
-    background: lightblue;
+    /* background: lightblue; */
 }
 .btn-with-icon {
   background: #a2ff37;
-  height: 10%;
-  width: 38%;
-  border-radius: 50px;
+  height: fit-content;
+  width: 40%;
+  border-radius: 70px;
   border: none;
   display: flex;
   margin:auto;
@@ -13,12 +13,19 @@
 .btn-circle {
   background: black;
   color: #a2ff37;
+  font-size:4rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin: 0.4rem;
+  border-radius: 4rem;
   
 }
 .btn-text {
-  font-size: 1.5rem;
-  padding: 1.5rem;
-  /* background-color: #a2ff37; */
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem;
+  padding-top: 2.2rem;
+  background-color: #a2ff37;
 }
 
 i::before {
