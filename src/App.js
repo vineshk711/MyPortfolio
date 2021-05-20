@@ -3,6 +3,8 @@ import "./styles.css";
 import Navbar from "./components/navbar";
 import Card from "./components/card";
 import WelcomeInfo from "./components/welcomeInfo";
+import ContactPage from "./components/contactPage";
+
 
 export default function App() {
   return (
@@ -11,7 +13,8 @@ export default function App() {
       <div className="about-me">
         <Card/> 
         <WelcomeInfo/>
-      </div>      
+      </div>
+      <ContactPage/>
     </div>
   );
 }

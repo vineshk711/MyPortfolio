@@ -1,0 +1,26 @@
+.contact-page-container {
+    background: lightblue;
+}
+.btn-with-icon {
+  background: #a2ff37;
+  height: 10%;
+  width: 38%;
+  border-radius: 50px;
+  border: none;
+  display: flex;
+  margin:auto;
+}
+.btn-circle {
+  background: black;
+  color: #a2ff37;
+  
+}
+.btn-text {
+  font-size: 1.5rem;
+  padding: 1.5rem;
+  /* background-color: #a2ff37; */
+}
+
+i::before {
+  background: black;
+}
