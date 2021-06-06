@@ -1,0 +1,9 @@
+.cards-container{
+    display: flex
+}
+.project2 {
+    width: 80%
+}
+.project1 {
+    width: 20%
+}
