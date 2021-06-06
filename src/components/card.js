@@ -1,7 +1,6 @@
 import React from "react";
 import "./componentStyles/card.css";
-import photo from "./vinesh.jpeg";
-export default function Card() {
+export default function Card({subtitle,title,description,photo}) {
   return (
     <div className="card-container">
       <div className="card">
@@ -9,9 +8,9 @@ export default function Card() {
           <img src={photo} alt="" className="img" />
         </div>
         <div className="lower-section">
-          <h6>UNDERGRUADATE STUDENT</h6>
-          <h2>Vinesh Kumar</h2>
-          <p>Student at IPU. Interested in Software Engineering</p>
+          <h6>{subtitle}</h6>
+          <h2>{title}</h2>
+          <p>{description}</p>
         </div>
       </div>
     </div>
