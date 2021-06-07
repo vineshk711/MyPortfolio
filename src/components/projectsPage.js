@@ -9,12 +9,17 @@ export default function ProjectsPage() {
         <div>
             <div className="cards-container">
                 <Card className="project1"
+                    containerWidth="100%"
+                    width="114%"
                     photo={project1Photo}
                     subtitle="E-COMMERCE WEBSITE WITH PAYMENT GATEWAY"
                     title="Sell Your Products"
                     description="The wuicsk borown fox jumpsj ovjak ihdk thel whye are ouf"
                 />
                 <Card className="project2"
+                    containerWidth="100%"
+                    width="50%"
+                    pos="right"
                     photo={project2Photo}
                     subtitle="A FRONTEND ONLY PROJECT"
                     title="My Portfolio"

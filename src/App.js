@@ -13,8 +13,10 @@ export default function App() {
     <div className="App">
       <Navbar />
       <div className="about-me">
-        <Card 
+        <Card
           photo={photo}
+          containerWidth="50%"
+          width="70%"
           subtitle="UNDERGRADUATE STUDENT"
           title="Vinesh Kumar"
           description="Student at IPU, interested in Software Engineering"

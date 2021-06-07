@@ -1,5 +1,6 @@
 .cards-container{
-    display: flex
+    display: flex;
+    background: red;
 }
 .project2 {
     width: 80%
